@@ -2,7 +2,7 @@
 A simple cron python script
 
 
-### How To Schedule `sample.py` python script as Cron Job in linux
+### How To Schedule `samplescript.py` python script as Cron Job in linux
 - Open `crontab` with editor. If cron is not installed, install the cron package on your linux install with command
 
 ```
